@@ -2,7 +2,12 @@
 [![Downloads](https://img.shields.io/gem/dt/twitch-api.svg)]()
 [![Travis](https://img.shields.io/travis/mauricew/ruby-twitch-api.svg)]()
 [![License](https://img.shields.io/github/license/mauricew/ruby-twitch-api.svg)]()
-# Ruby Twitch API
+
+
+Thanks to mauricew for an awesome implementation, just changed faraday version to 0.12.2 to be compatible with omniauth-gems
+
+
+# Ruby Twitch APi
 
 This library is a Ruby implementation of the [Twitch Helix API](https://dev.twitch.tv/docs/api).
 
