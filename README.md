@@ -2,7 +2,7 @@
 [![Downloads](https://img.shields.io/gem/dt/twitch-api.svg)]()
 [![Travis](https://img.shields.io/travis/mauricew/ruby-twitch-api.svg)]()
 [![License](https://img.shields.io/github/license/mauricew/ruby-twitch-api.svg)]()
-# Ruby Twitch API
+# Ruby Twitch APi
 
 This library is a Ruby implementation of the [Twitch Helix API](https://dev.twitch.tv/docs/api).
 
